@@ -1,9 +1,9 @@
 {
-    "name": "didin/cli",
+    "name": "dyno/php_cli",
     "authors": [
         {
-            "name": "didin",
-            "email": "didin1453fatih@gmail.com"
+            "name": "Dev one",
+            "email": "dev.one@dynobird.com"
         }
     ],
     "require": {
