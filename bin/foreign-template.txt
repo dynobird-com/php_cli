@@ -1,0 +1,3 @@
+         Schema::table('{{ tableName |raw }}', function (Blueprint $table) {    
+             {{ foreignKey |raw }}
+         });

@@ -1,0 +1,7 @@
+{
+    "framework": "laravel",
+    "version": "8.x",
+    "integrationToken":"5eb899f8b8ef865818fa5ba2ca3a0f8439dc3dd792d0504c311ae4fcc0fc985283a56a8a73fe48559e548254c9c28a27e447",
+    "migrationDir":"",
+    "modeDir":""
+}

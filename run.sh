@@ -1,0 +1,1 @@
+php phar-composer.phar build . dist && chmod +x ./dist/cli.phar  && php ./dist/cli.phar makan

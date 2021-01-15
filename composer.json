@@ -1,0 +1,14 @@
+{
+    "name": "didin/cli",
+    "authors": [
+        {
+            "name": "didin",
+            "email": "didin1453fatih@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "twig/twig": "^3.0"
+    },
+    "bin": ["bin/main"]
+}

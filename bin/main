@@ -1,0 +1,7 @@
+#!/usr/bin/env php
+<?php
+
+// To use composer's autoload
+require_once '../vendor/autoload.php';
+
+require 'new.php';

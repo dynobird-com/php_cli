@@ -1,0 +1,3 @@
+         Schema::create('{{ tableName |raw }}', function (Blueprint $table) {
+             {{ column |raw }}
+         });
